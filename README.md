@@ -5,7 +5,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://google.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20Website;Need%20an%20unfair%20advantage?;Lets%20make%20it%20happen!&font=Bold%20Code&center=true&color=BC13FE&pause=2000">
   </a>
 </p>
 
@@ -17,10 +17,13 @@
 <!-- Social links -->
 <h3>📤 Connect with Me:</h3>
 <p>
-  <a href="mailto:Ahmedhaythamwork@gmail.com">
+ <a target='_blank' href="https://maliikx-dev.vercel.app/">
+<img src="https://icon-library.com/images/white-globe-icon/white-globe-icon-24.jpg" height="35" alt="Website"/>
+</a>
+  <a target='_blank' href="mailto:Ahmedhaythamwork@gmail.com">
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
   </a>
-  <a href="https://linkedin.com/in/ahmedhaytham-dev">
+  <a target='_blank' href="https://linkedin.com/in/ahmedhaytham-dev">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
   </a>
 </p>
@@ -28,7 +31,7 @@
 <!-- Languages & Tools -->
 <h3>🛠️ Languages & Tools:</h3>
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,reactjs,html,css,js,git,flutter"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwind,js,html,css,git,gsap,flutter,dart,figma"/>
 </p>
 
 <!-- GitHub trophies -->
