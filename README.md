@@ -1,18 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ahmed Haytham</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h1 align="center">I'm Ahmed Haytham</h1>
+<h2 align="center">Software engineer | Front-end developer</h2>
+<br>
 
-- 🔭 I’m currently working on [Malak portfolio](https://github.com/Maliikx/malak_photography)
-
-- 🌱 I’m currently learning **swift & node.js**
-
-- 👨‍💻 All of my projects are available at [maliikx-dev.vercel.app](maliikx-dev.vercel.app)
-
-- 📫 How to reach me **Ahmedhaythamwork@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedhaytham-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmedhaytham-dev/" height="30" width="40" /></a>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://google.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maliikx&style=flat&color=4010B0" height="31"/>
+</p>
+
+<!-- Social links -->
+<h3>📤 Connect with Me:</h3>
+<p>
+  <a href="mailto:Ahmedhaythamwork@gmail.com">
+    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmedhaytham-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+  </a>
+</p>
+
+<!-- Languages & Tools -->
+<h3>🛠️ Languages & Tools:</h3>
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,reactjs,html,css,js,git,flutter"/>
+</p>
+
+<!-- GitHub trophies -->
+<h3>🏆 GitHub Trophies:</h3>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Maliikx&theme=onestar&row=1&column=7"/>
+</p>
+
+<!-- Stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maliikx&layout=compact&langs_count=6&theme=highcontrast" height="120"/>
+  <img src="https://streak-stats.demolab.com/?user=Maliikx&theme=highcontrast" height="120"/>
+</p>
+
+<!-- Snake animation -->
+<p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
