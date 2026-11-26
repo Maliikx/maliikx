@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ahmed Haytham</h1>
+<h1 align="center">I'm Ahmed Haitham</h1>
 <h2 align="center">Software engineer | Front-end developer</h2>
 <br>
 
